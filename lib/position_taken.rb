@@ -12,4 +12,3 @@ else board[index] == "X" || "O"
 
 end
 end
-end
