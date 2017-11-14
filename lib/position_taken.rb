@@ -10,3 +10,5 @@ if board[index] != nil
 
 end
 end
+end
+end
