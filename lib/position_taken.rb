@@ -7,7 +7,7 @@ false
 elsif board[index] != [nil]
 false
 elsif board[index] != "X"||"O"
-  true
+  false
 
 
 end
