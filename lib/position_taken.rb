@@ -6,7 +6,7 @@ false
 false
 elsif board[index] != [nil]
 false
-elsif board[index] == "X" || "O"
+else board[index] == "X" || "O"
   true
 
 
